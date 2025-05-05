@@ -1,4 +1,4 @@
-# Prelim examination in Machine Learning
+# Machine Learning Examination
 
 Links to the datasets used:
 
