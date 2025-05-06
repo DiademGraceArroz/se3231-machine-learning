@@ -1,6 +1,6 @@
 # Machine Learning Examination
 
-Links to the datasets used:
+Links to the prelim datasets used:
 
 https://www.kaggle.com/datasets/bhargavchirumamilla/thyroid-cancer-risk-dataset
 
